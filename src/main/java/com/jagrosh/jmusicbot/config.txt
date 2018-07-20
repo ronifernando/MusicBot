@@ -1,0 +1,3 @@
+token=process.env.BOT_TOKEN
+owner=384752980878032918
+prefix=]
